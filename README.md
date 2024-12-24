@@ -13,6 +13,10 @@
 ## Install
 See [INSTALL.md](./INSTALL.md)
 
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/moonbloom-theme/vivaldi/graphs/contributors).
+
 <!--CONTRIBUTORS_TABLE--><table><tr>
   <td align="center">
     <a href="https://github.com/teplostanski" title="Игорь Теплостанский">
@@ -21,6 +25,8 @@ See [INSTALL.md](./INSTALL.md)
     </a>
   </td>
 </tr></table><!--CONTRIBUTORS_TABLE-END-->
+
+</br>
 
 <p align="center">
   <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/vivaldi?style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
