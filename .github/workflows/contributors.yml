@@ -1,0 +1,37 @@
+name: Generate Contributors Table
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate-contributors:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pages: write
+      actions: read
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Generate Contributors Table
+      uses: jaywcjlove/github-action-contributors@main
+      id: contributors
+      with:
+        filter-author: (renovate\[bot\]|dependabot\[bot\])
+        avatarSize: 42
+        output: CONTRIBUTORS.svg
+
+    - name: Modify htmlTable README.md
+      uses: jaywcjlove/github-action-modify-file-content@main
+      with:
+        path: README.md
+        openDelimiter: '<!--CONTRIBUTORS_TABLE-->'
+        closeDelimiter: '<!--CONTRIBUTORS_TABLE-END-->'
+        body: |
+          ${{ steps.contributors.outputs.htmlTable }}
