@@ -1,11 +1,11 @@
 ### [Vivaldi](https://vivaldi.com)
 
-<!--#### Installing using Vivaldi.net
+#### Installing using Vivaldi.net
 
 1. Go to the [Moonbloom Official theme page](https://themes.vivaldi.net/themes/QbnljqAG72m)
 2. Click `Download Theme`
     - This will say `Update Theme` if you have installed a previous version
-3. Click `Install`-->
+3. Click `Install`
 
 #### Install using Git
 

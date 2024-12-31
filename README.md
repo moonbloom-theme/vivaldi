@@ -29,6 +29,6 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 </br>
 
 <p align="center">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/vivaldi?style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
-  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/moonbloom-theme/vivaldi?include_prereleases&display_name=release&style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/vivaldi?style=flat-square&labelColor=%231D1E27&color=%23E8C87E">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/moonbloom-theme/vivaldi?include_prereleases&display_name=release&style=flat-square&labelColor=%231D1E27&color=%23E8C87E">
 </p>
