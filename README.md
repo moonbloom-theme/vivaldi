@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Moonbloom for <a href="https://vivaldi.com">Vivaldi</a></h1>
   <p>Gentle on the eyes, evoking the cozy tranquility of a serene night.</p>
-  <span><a href="https://github.com/moonbloom-theme/moonbloom">Homepage</a> • <a href="https://moonbloom.teplostanski.dev">Website</a> • <a href="https://github.com/orgs/moonbloom-theme/discussions">Discussions</a> • <a href="https://donate.teplostanski.dev">Support Us</a></span>
+  <span><a href="https://github.com/moonbloom-theme/moonbloom">Homepage</a> • <a href="https://moonbloom.teplostan.ski">Website</a> • <a href="https://github.com/orgs/moonbloom-theme/discussions">Discussions</a> • <a href="https://donate.teplostan.ski">Support Us</a></span>
 </div>
 
 <br/>
