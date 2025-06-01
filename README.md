@@ -19,9 +19,9 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 <!--CONTRIBUTORS_TABLE--><table><tr>
   <td align="center">
-    <a href="https://github.com/teplostanski" title="Игорь Теплостанский">
-      <img src="https://avatars.githubusercontent.com/u/56846024?v=4" width="42;" alt="Игорь Теплостанский"/>
-    <br /><sub><b>Игорь Теплостанский</b></sub>
+    <a href="https://github.com/teplostanski" title="Igor Teplostanski">
+      <img src="https://avatars.githubusercontent.com/u/56846024?v=4" width="42;" alt="Igor Teplostanski"/>
+    <br /><sub><b>Igor Teplostanski</b></sub>
     </a>
   </td>
 </tr></table><!--CONTRIBUTORS_TABLE-END-->
